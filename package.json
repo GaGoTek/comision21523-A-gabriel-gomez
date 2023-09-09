@@ -1,0 +1,11 @@
+{
+  "name": "comision21523-a-gabriel-gomez",
+  "version": "1.0.0",
+  "description": "Proyecto Integrador Tramo II Lenguajes de Programacion EPICA - Argentna Programa 4.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Eduardo Gómez",
+  "license": "ISC"
+}
